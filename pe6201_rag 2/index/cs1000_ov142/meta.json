@@ -1,0 +1,11 @@
+{
+  "tag": "cs1000_ov142",
+  "n_docs": 6,
+  "n_pages": 199,
+  "n_chunks": 554,
+  "embed_tokens": 92338,
+  "embed_cost_usd": 0.00184676,
+  "pages_without_text": [
+    "MAS_Consultation_Crypto_Permissionless_2026.pdf:12"
+  ]
+}

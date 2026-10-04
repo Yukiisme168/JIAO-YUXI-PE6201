@@ -1,0 +1,11 @@
+{
+  "tag": "cs500_ov71",
+  "n_docs": 6,
+  "n_pages": 199,
+  "n_chunks": 1048,
+  "embed_tokens": 94789,
+  "embed_cost_usd": 0.00189578,
+  "pages_without_text": [
+    "MAS_Consultation_Crypto_Permissionless_2026.pdf:12"
+  ]
+}
